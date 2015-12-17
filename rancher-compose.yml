@@ -1,0 +1,2 @@
+ranchertest:
+  build: https://github.com/stevebannon/ranchertest.git

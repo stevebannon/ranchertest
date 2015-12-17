@@ -1,0 +1,7 @@
+ranchertest:
+  build: .
+  restart: always
+  tty: true
+  stdin_open: true
+  ports:
+    - 80:80
